@@ -1,3 +1,5 @@
+package de.tobiasgies.randobot
+
 fun main(args: Array<String>) {
     println("Hello World!")
 
